@@ -1,0 +1,21 @@
+ID,Componente,Material,Longitud (mm),Diámetro (mm),Peso (kg)
+1,Tornillo de fijación,Acero inoxidable,20,4,0.02
+2,Engranaje helicoidal,Aluminio,50,10,0.1
+3,Muelle de compresión,Acero al carbono,30,6,0.05
+4,Válvula de control,Aleación de bronce,40,8,0.08
+5,Eje de transmisión,Acero aleado,100,12,0.2
+6,Pistón hidráulico,Acero inoxidable,60,15,0.15
+7,Cojinete de bolas,Acero al cromo,25,5,0.03
+8,Acoplamiento flexible,Nylon,35,7,0.04
+9,Junta tórica,Caucho nitrilo,10,3,0.01
+10,Leva de movimiento,Acero al carbono,45,9,0.07
+11,Cilindro neumático,Aluminio,80,18,0.18
+12,Placa de montaje,Acero galvanizado,70,14,0.12
+13,Amortiguador de vibraciones,Polímero termoplástico,15,3,0.02
+14,Enfriador de aceite,Cobre,55,11,0.15
+15,Sistema de frenos,Acero inoxidable,90,16,0.25
+16,Embrague electromagnético,Fibra de carbono,40,8,0.05
+17,Bomba hidráulica,Aluminio fundido,120,20,0.3
+18,Generador eléctrico,Acero aleado,200,25,0.5
+19,Caja de cambios,Aluminio,150,22,0.4
+20,Tubo de escape,Acero inoxidable,110,18,0.3
